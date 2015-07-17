@@ -26,6 +26,6 @@
     "podfile": "react-native-icons.podspec"
   },
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": ""
   }
 }
